@@ -1,4 +1,4 @@
-## Useful-Shell-Commands 
+## Useful-Shell-Commands :fire:
 
 
 This is just a small collection of useful shell commands by category.
