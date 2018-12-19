@@ -3,7 +3,7 @@
 
 This is just a small collection of useful shell commands by category.
 
-### General commands that can be used daily:
+### General commands that can be used daily
 
 ```
 man - Will print out a useful manual
