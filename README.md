@@ -40,7 +40,7 @@ open . - To open that particular directory in a GUI
 
 Ctrl-R - Search through the previously entered commands
 
-Ctrl-C - Opens a new command in the same window
+Ctrl-C - Opens a new command line in the same window
 
 
 ```
