@@ -14,7 +14,7 @@ mkdir - Make a directory
 
 cd - Change working directory
 
-ls - 
+ls - Will list what files you have in folder
 
 ls -a - Will display hidden files
 
@@ -30,7 +30,11 @@ cat - Inputs contents of a file
 
 history - display your command history
 
-grep - search for a string of text
+grep - Search for a string of text
+
+locate - Will track where a file is 
+
+open . - To open that particular directory in a GUI
 
 ```
 
