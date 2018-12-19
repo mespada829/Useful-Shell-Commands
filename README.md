@@ -46,7 +46,6 @@ Ctrl-C - Opens a new command line in the same window
 
 exit - Close the terminal
 
-
 ```
 
 ### Transfer a files 
