@@ -90,7 +90,7 @@ w - Who is logged in
 ### Making an alias 
 
 ```
-Remember to cd to your profile. This depends on the shell you are using. I use ZSH so I nano - 
+Remember to cd to your profile. This depends on the shell you are using. I use ZSH so I nano into .zshrc file
 
 alias peaceout="exit"; - This alias would close the terminal since peaceout is a short for that command
 
