@@ -1,9 +1,9 @@
-### Useful-Shell-Commands :fire:
+## Useful-Shell-Commands :fire:
 
 
 This is just a small collection of useful shell commands by category.
 
-## General daily commands:
+### General daily commands:
 
 ```
 man - Will print out a useful manual
@@ -34,9 +34,14 @@ grep - search for a string of text
 
 ```
 
-## Transfer a files 
+### Transfer a files 
 
-## Commands for printing from your default printer
+```
+scp - Secure file copy from or to machine
+
+```
+
+### Commands for printing from your default printer
 
 ```
 lpr file.ps - Print in default printer
@@ -45,7 +50,7 @@ lpq - Show printer jobs in queue
 
 ```
 
-## Editors 
+### Editors 
 
 ```
 nano -  Simple terminal-based text editor.
