@@ -21,3 +21,8 @@ cp - Copy a file
 rm - Remove a file
 
 ```
+
+### Transfer a file 
+
+### Commands for printing 
+
