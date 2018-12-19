@@ -36,11 +36,15 @@ grep - Selects lines in files that match patterns
 
 locate - Will track where a file is 
 
+zip -r - (new name.zip dirname) - Zip a directory
+
 open . - To open that particular directory in a GUI
 
 Ctrl-R - Search through the previously entered commands
 
 Ctrl-C - Opens a new command line in the same window
+
+exit - Close the terminal
 
 
 ```
@@ -71,4 +75,25 @@ nano -  Simple terminal-based text editor.
 vim - Highly configurable text editor built 
 
 ```
+
+### Users, permissions etc
+
+```
+who -a - 	List all users that have logged in recently
+
+uptime - Show how long the system's been running
+
+w - Who is logged in
+
+```
+
+### Making an alias 
+
+```
+Remember to cd to your profile. This depends on the shell you are using. I use ZSH so I nano - 
+
+alias peaceout="exit"; - This alias would close the terminal since peaceout is a short for that command
+
+```
+
 
