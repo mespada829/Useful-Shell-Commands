@@ -1,7 +1,7 @@
 ## Useful-Shell-Commands 
 
 
-This is just a small compilation of useful shell commands by category.
+This is just a small collection of useful shell commands by category.
 
 ### General daily commands:
 
