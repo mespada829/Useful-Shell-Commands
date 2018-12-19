@@ -20,6 +20,10 @@ cp - Copy a file
 
 rm - Remove a file
 
+find - find a file quick
+
+history - display your command history
+
 ```
 
 ### Transfer a file 
