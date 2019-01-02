@@ -95,4 +95,11 @@ alias peaceout="exit"; - This alias would close the terminal since peaceout is a
 
 ```
 
+### Additional cool things to do
+
+```
+You may add an emoji or customize your command line if you cd into `~/.oh-my-zsh/themes` and nano into your theme. 
+For bash users this link my help - https://medium.com/@joshuaxavier/how-to-customise-your-command-prompt-to-include-an-emoji-647e1f3e4027
+```
+
 
