@@ -1,5 +1,6 @@
 ## Useful-Shell-Commands :fire:
 
+**Tools**: https://explainshell.com/
 
 This is just a small collection of useful shell commands by category.
 
