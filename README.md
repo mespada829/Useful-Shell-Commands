@@ -2,7 +2,7 @@
 
 **Tools**: https://explainshell.com/
 
-![dig](https://github.com/mespada829/Cheatsheet-DNS-TLS-Etc/blob/master/dig.png)
+![dig](https://github.com/mespada829/Useful-Shell-CommandsLinux.jpeg)
 
 This is just a small collection of useful shell commands by category.
 
