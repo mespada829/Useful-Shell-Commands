@@ -2,8 +2,6 @@
 
 **Tools**: https://explainshell.com/
 
-![Linux](https://github.com/mespada829/Useful-Shell-Commands/Linux.jpeg)
-
 This is just a small collection of useful shell commands by category.
 
 ### General commands that can be used daily
