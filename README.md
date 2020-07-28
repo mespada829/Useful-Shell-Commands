@@ -2,6 +2,8 @@
 
 **Tools**: https://explainshell.com/
 
+![dig](https://github.com/mespada829/Cheatsheet-DNS-TLS-Etc/blob/master/dig.png)
+
 This is just a small collection of useful shell commands by category.
 
 ### General commands that can be used daily
