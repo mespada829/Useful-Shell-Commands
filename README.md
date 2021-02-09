@@ -9,6 +9,8 @@ This is just a small collection of useful shell commands by category.
 ```
 man - Will print out a useful manual
 
+echo $USER - To find your user path 
+
 pwd - Print working directory to identify what path you are in
 
 mkdir - Make a directory
@@ -103,4 +105,10 @@ You may add an emoji or customize your command line if you cd into `~/.oh-my-zsh
 For bash users this link my help - https://medium.com/@joshuaxavier/how-to-customise-your-command-prompt-to-include-an-emoji-647e1f3e4027
 ```
 
+### SSH into another computer
+
+```
+Go to settings > Sharing > Enable Remote Login > Click on the + sign to add yourself and / or other users.
+On the top you will find -> To log in to this computer remotely, type “ssh etc"
+```
 
