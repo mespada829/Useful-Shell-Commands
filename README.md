@@ -47,6 +47,8 @@ Ctrl-R - Search through the previously entered commands
 
 Ctrl-C - Opens a new command line in the same window
 
+cp -R (folder name) to cope over 
+
 exit - Close the terminal
 
 ```
@@ -81,7 +83,7 @@ vim - Highly configurable text editor built
 ### Users, permissions etc
 
 ```
-who -a - 	List all users that have logged in recently
+who -a - List all users that have logged in recently
 
 uptime - Show how long the system's been running
 
